@@ -1,9 +1,7 @@
 This is 1st file
 Hello World
-<<<<<<< HEAD
 Hi All
 yes
 
-=======
 Hi NOT to All
->>>>>>> 21937cd08c54d786499df83e37d81318f54a8386
+123
